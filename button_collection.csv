@@ -1,84 +1,110 @@
-filename,year,month,description,location
-SCAD-dots,2016,September,x,"San Francisco, CA"
-SCAD-shine,2016,September,x,"San Francisco, CA"
-SCAD-heart,2016,September,x,"San Francisco, CA"
-moana-blue,2016,September,x,"San Francisco, CA"
-beer,2016,September,x,"San Francisco, CA"
-mickey-mouse,2016,September,x,"San Francisco, CA"
-walt-disney,2016,September,x,"San Francisco, CA"
-white-fox,2016,September,x,"San Francisco, CA"
-anime-studio,2016,September,x,"San Francisco, CA"
-avere,2016,September,x,"San Francisco, CA"
-ask-me,2016,September,x,"San Francisco, CA"
-kuci-banner,2016,September,x,"Irvine, CA"
-kuci-dial,2016,September,x,"Irvine, CA"
-zot-smarter,2016,September,x,"Irvine, CA"
-lib-uci-edu,2016,September,x,"Irvine, CA"
-red-floral-pattern,2016,October,x,"Irvine, CA"
-diamond,2016,October,x,"Irvine, CA"
-rare-books-black,2016,October,x,"Irvine, CA"
-rare-books-pink,2016,October,x,"Irvine, CA"
-uci-lib-zinefest-2016,2016,October,x,"Irvine, CA"
-hello-kitty-rainbow,2016,November,x,"Costa Mesa, CA"
-hello-kitty-japantown-red,2016,July,x,"San Francisco, CA"
-hello-kitty-japantown-pink,2016,July,x,"San Francisco, CA"
-hello-kitty-japantown-blue,2016,July,x,"San Francisco, CA"
-sf-golden-gate,2016,July,by Tomoko Maruyama,"San Francisco, CA"
-sf-painted-ladies,2016,July,by Tomoko Maruyama,"San Francisco, CA"
-sf-cart,2016,July,by Tomoko Maruyama,"San Francisco, CA"
-sf-lake,2016,July,by Tomoko Maruyama,"San Francisco, CA"
-pusheen-lollipop,2016,July,x,"San Francisco, CA"
-pusheen-burger,2016,July,x,"San Francisco, CA"
-uci-orientation-2016,2016,July,x,"Irvine, CA"
-Heisenberg,2016,March,x,"East Brunswick, NJ"
-twins,2016,April,x,"New York, NY"
-perfect-robot,2016,April,x,"New York, NY"
-fairy,2014,July,x,"Lancaster, PA"
-korra,2015,August,x,"Boston, MA"
-amethyst,2015,August,x,"Boston, MA"
-lion,2015,August,x,"Boston, MA"
-wolf,2015,August,x,"Boston, MA"
-fox,2015,August,x,"Boston, MA"
-satsuki,2015,August,x,"Boston, MA"
-su-statue,2015,August,x,"Boston, MA"
-flcl-noodles,2015,August,x,"Boston, MA"
-flcl-pose,2015,August,x,"Boston, MA"
-sao,2015,August,x,"Boston, MA"
-pride-ribbon,2016,June,x,"North Brunswick, NJ"
-origami-flower,2013,June,x,"East Brunswick, NJ"
-innovation,2016,August,x,"East Brunswick, NJ"
-speed,2016,August,x,"East Brunswick, NJ"
-passion,2016,August,x,"East Brunswick, NJ"
-accountability,2016,August,x,"East Brunswick, NJ"
-je-suis-1,2008,May,x,"East Brunswick, NJ"
-sawa-1,2013,July,"from Scholastic Art and Writing Award, Silver Regional Key","East Brunswick, NJ"
-sawa-2,2015,July,"from Scholastic Art and Writing Award, Silver Regional Key","East Brunswick, NJ"
-nasa-shuttle,2004,December,x,"Bay Lake, Florida"
-4h-cats,2010,September,from 4H,"East Brunswick, NJ"
-4h-clover,2010,September,from 4H,"East Brunswick, NJ"
-heart-pin,2006,December,x,"East Brunswick, NJ"
-dna-nj,2007,November,x,"East Brunswick, NJ"
-lancaster-laboratories,2007,November,x,"East Brunswick, NJ"
-chill-grace-circle,2005,December,x,"Lake Placid, NY"
-chill-grace-rectangle,2006,February,x,"Cape Cod, MA"
-rainbow-figure-skating-team,2006,February,x,"Cape Cod, MA"
-metropolitan,2011,July,x,"New York, NY"
-rutgers-scarlet-knights,2016,August,x,"East Brunswick, NJ"
-pmoa-1,2015,September,x,"Philadelphia, PA"
-pmoa-2,2016,May,x,"Philadelphia, PA"
-ru-libraries,2016,December,x,"New Brunswick, NJ"
-gates,2016,December,x,"New Brunswick, NJ"
-blue-ribbon,2016,January,x,"East Brunswick, NJ"
-mad,2016,June,x,"East Brunswick, NJ"
-joy,2012,August,x,"East Brunswick, NJ"
-feliz-navidad,2012,August,x,"East Brunswick, NJ"
-yerd,2012,August,x,"East Brunswick, NJ"
-recycle,2012,August,x,"East Brunswick, NJ"
-creepy-elf-face,2012,August,x,"East Brunswick, NJ"
-i-grid-it,2012,August,x,"East Brunswick, NJ"
-im-a-font-snob,2012,August,x,"East Brunswick, NJ"
-ornament,2012,August,x,"East Brunswick, NJ"
-overland,2013,March,from Overland game,"St. Louis, MI"
-me-computer,2016,December,x,
-me-guitar,2016,December,x,
-me-speaking,2016,December,x,
+filename,year,month,description,location,inch
+ask-me,2016,September,,"San Francisco, CA",3.5
+kuci-banner,2016,September,,"Irvine, CA",1
+kuci-dial,2016,September,,"Irvine, CA",1
+sf-golden-gate,2016,July,Art by Tomoko Maruyama,"San Francisco, CA",1
+sf-painted-ladies,2016,July,Art by Tomoko Maruyama,"San Francisco, CA",1
+sf-cart,2016,July,Art by Tomoko Maruyama,"San Francisco, CA",1
+sf-lake,2016,July,Art by Tomoko Maruyama,"San Francisco, CA",1
+uci-orientation-2016,2016,July,,"Irvine, CA",1
+Heisenberg,2016,March,,"East Brunswick, NJ",1
+twins,2016,April,,"New York, NY",1
+perfect-robot,2016,April,,"New York, NY",1
+fairy,2014,July,,"Lancaster, PA",1
+amethyst,2015,August,,"Boston, MA",1
+zot-smarter,2016,September,,"Irvine, CA",1.25
+lib-uci-edu,2016,September,,"Irvine, CA",1.25
+red-floral-pattern,2016,October,,"Irvine, CA",1.25
+diamond,2016,October,,"Irvine, CA",1.25
+rare-books-black,2016,October,,"Irvine, CA",1.25
+rare-books-pink,2016,October,,"Irvine, CA",1.25
+hello-kitty-rainbow,2016,November,,"Costa Mesa, CA",1.25
+hello-kitty-japantown-red,2016,July,,"San Francisco, CA",1.25
+hello-kitty-japantown-pink,2016,July,,"San Francisco, CA",1.25
+hello-kitty-japantown-blue,2016,July,,"San Francisco, CA",1.25
+pusheen-lollipop,2016,July,,"San Francisco, CA",1.25
+pusheen-burger,2016,July,,"San Francisco, CA",1.25
+lion,2015,August,,"Boston, MA",1.25
+wolf,2015,August,,"Boston, MA",1.25
+fox,2015,August,,"Boston, MA",1.25
+behind-happy-faces,2017,June,,"Irvine, CA",2
+je-suis-1,2008,May,,"East Brunswick, NJ",1.75
+satsuki,2015,August,,"Boston, MA",1
+flcl-noodles,2015,August,,"Boston, MA",1
+flcl-pose,2015,August,,"Boston, MA",1
+sao,2015,August,,"Boston, MA",1
+metropolitan,2011,July,,"New York, NY",1
+joy,2012,August,,"East Brunswick, NJ",1
+feliz-navidad,2012,August,,"East Brunswick, NJ",1
+yerd,2012,August,,"East Brunswick, NJ",1
+recycle,2012,August,,"East Brunswick, NJ",1
+partybaby,2017,March,,"Irvine, CA",1
+be-the-one,2017,September,,"Irvine, CA",1
+hack-the-planet,2017,September,,"Irvine, CA",1
+mentor,2017,September,,"Irvine, CA",1
+local-hack-day,2017,September,,"Irvine, CA",1
+mlh,2017,September,,"Irvine, CA",1
+the-no-44,2017,September,,"Irvine, CA",1
+stereobox,2017,December,,"Irvine, CA",1
+kuci-yellow,2017,May,,"Irvine, CA",1
+hyena-motorcade,2017,April,,"Irvine, CA",1
+beer,2016,September,,"San Francisco, CA",1
+mad,2016,June,,"East Brunswick, NJ",1.25
+innovation,2016,August,,"East Brunswick, NJ",1.25
+speed,2016,August,,"East Brunswick, NJ",1.25
+passion,2016,August,,"East Brunswick, NJ",1.25
+accountability,2016,August,,"East Brunswick, NJ",1.25
+overland,2013,March,Art from Overland,"St. Louis, MI",1.25
+me-computer,2016,December,,"San Francisco, CA",1.25
+me-guitar,2016,December,,"San Francisco, CA",1.25
+me-speaking,2016,December,,"San Francisco, CA",1.25
+wwise-vr,2017,February,,"San Francisco, CA",1.25
+wwise-certification,2017,February,,"San Francisco, CA",1.25
+ru-libraries,2016,December,,"New Brunswick, NJ",1.5
+stigmafighter,2017,September,,"Irvine, CA",1.5
+student-union,2018,March,,"Irvine, CA",1.5
+fish-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+dragon-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+wolf-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+woodland-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+tea-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+witch-hero,2015,August,Art by KristinMadeStuff,"Boston, MA",1.5
+white-fox,2016,September,,"San Francisco, CA",1.5
+SCAD-dots,2016,September,,"San Francisco, CA",1.5
+SCAD-shine,2016,September,,"San Francisco, CA",1.5
+SCAD-heart,2016,September,,"San Francisco, CA",1.5
+uh-square,2017,February,,"San Francisco, CA",1.5
+sf-hackday,2017,September,,"San Francisco, CA",1.5
+cube,2017,February,,"San Francisco, CA",1.5
+su-statue,2015,August,,"Boston, MA",1.5
+korra,2015,August,,"Boston, MA",1.5
+gates,2016,December,,"New Brunswick, NJ",2.25
+scope-creep,2017,February,Art by Miranda Jacoby,"San Francisco, CA",2.25
+ics-day,2017,May,,"Irvine, CA",2.25
+ocseaa-orange,2017,September,,"Irvine, CA",1.25
+scad-plume,2017,February,,"San Francisco, CA",1.25
+scad-written,2017,February,,"San Francisco, CA",1.25
+gdc-17,2017,February,,"San Francisco, CA",1.25
+button-research,2017,September,,"Irvine, CA",1.25
+mickey-mouse,2016,September,,"San Francisco, CA",1.25
+creepy-elf-face,2012,August,,"East Brunswick, NJ",1
+i-grid-it,2012,August,,"East Brunswick, NJ",1
+chill-grace-rectangle,2006,February,,"Cape Cod, MA",auto
+4h-clover,2010,September,from 4H,"East Brunswick, NJ",auto
+4h-cats,2010,September,from 4H,"East Brunswick, NJ",auto
+im-a-font-snob,2012,August,,"East Brunswick, NJ",1
+ornament,2012,August,,"East Brunswick, NJ",1
+fairytale-cosplay,2017,September,,"Irvine, CA",auto
+kongregate,2017,February,,"San Francisco, CA",2
+uci-lib-zinefest-2016,2016,October,,"Irvine, CA",1.75
+tiger,2017,October,,"Irvine, CA",1.75
+lioness,2017,October,,"Irvine, CA",1.75
+anime-studio,2016,September,,"San Francisco, CA",1.5
+avere,2016,September,,"San Francisco, CA",1.5
+facebook-square,2017,February,,"San Francisco, CA",1.5
+chill-grace-circle,2005,December,,"Lake Placid, NY",1.5
+rainbow-figure-skating-team,2006,February,,"Cape Cod, MA",auto
+pmoa-1,2015,September,,"Philadelphia, PA",auto
+moana-blue,2016,September,,"San Francisco, CA",1.25
+walt-disney,2016,September,,"San Francisco, CA",1.25
+pmoa-2,2016,May,,"Philadelphia, PA",auto
